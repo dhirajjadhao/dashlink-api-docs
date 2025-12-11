@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Dashlink API Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#565ADD",
+    "light": "#EDEDFF",
+    "dark": "#3D2E7C"
   },
   "favicon": "/favicon.svg",
   "navigation": {
